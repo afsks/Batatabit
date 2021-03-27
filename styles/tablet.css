@@ -1,0 +1,7 @@
+.main-product-detail{
+    display: flex;
+    flex-wrap: wrap;
+}
+.plans-container--slider{
+    justify-content: center;
+}
